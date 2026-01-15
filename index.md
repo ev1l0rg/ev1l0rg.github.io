@@ -1,15 +1,5 @@
 ---
-layout: default
-title: Home
+layout: home
+title: "Welcome to my blog"
 ---
-
-# Posts
-
-{% for post in site.posts %}
-## [{{ post.title }}]({{ post.url }})
-
-{{ post.excerpt }}
-
----
-{% endfor %}
-
+ 
