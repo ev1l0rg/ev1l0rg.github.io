@@ -3,7 +3,7 @@ description: "TBD"
 baseurl: "" # For user site, leave empty
 url: "https://ev1l0rg.github.io"
  
-theme: jekyll-theme-cayman
+theme: minima
  
 author:
   name: "yo"
