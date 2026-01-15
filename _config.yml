@@ -3,7 +3,7 @@ description: "Thoughts, notes, and experiments."
 baseurl: "" # For user site, leave empty
 url: "https://YOUR_USERNAME.github.io"
  
-theme: minima
+theme: Midnight
  
 author:
   name: "Your Name"
