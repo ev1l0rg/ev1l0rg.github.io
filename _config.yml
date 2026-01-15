@@ -1,10 +1,10 @@
-title: "My Personal Blog"
-description: "Thoughts, notes, and experiments."
+title: "TBD"
+description: "TBD"
 baseurl: "" # For user site, leave empty
-url: "https://YOUR_USERNAME.github.io"
+url: "https://ev1l0rg.github.io"
  
-theme: Midnight
+theme: midnight
  
 author:
-  name: "Your Name"
-  email: "you@example.com"
+  name: "yo"
+  email: "evil@org.com"
